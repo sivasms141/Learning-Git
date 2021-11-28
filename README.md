@@ -1,3 +1,3 @@
 # Learning-Git
 
-This is my First git practice
+This is my first sample file in the repo
